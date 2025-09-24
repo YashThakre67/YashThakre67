@@ -3,7 +3,7 @@
 💡 **Data Engineer | Storyteller with Data | Problem Solver**
 
 I am passionate about designing data pipelines, building real-time streaming solutions, and turning raw data into actionable insights.  
-Currently, I’m working with **Kafka, APIs, PySpark, Databricks, Power BI, and relational databases** to make data flow smoothly from source to dashboard.
+Currently, I’m working with **Kafka, APIs, PySpark, Databricks, Power BI, and Databases, Datawarehouses** to make data flow smoothly from source to dashboard.
 
 ---
 
